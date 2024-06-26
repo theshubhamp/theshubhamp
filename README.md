@@ -8,3 +8,5 @@ Here's a highlight of my public work:
 * YAQL Interpreter written in Rust: [yaql](https://github.com/theshubhamp/yaql)
 * SQL Database atop Badger KV: [fetadb](https://github.com/theshubhamp/fetadb)
 * Contributed Cookie JWT Auth to envoyproxy: https://github.com/envoyproxy/envoy/pull/17811, https://github.com/envoyproxy/envoy/pull/17985 & https://github.com/envoyproxy/envoy/pull/17721
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/shubhampatil/)
